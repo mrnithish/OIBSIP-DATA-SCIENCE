@@ -26,4 +26,5 @@
 - Venture into the realm of sales prediction, a critical aspect for product and service-based businesses.
 - Leverage machine learning in Python to predict future sales, considering factors such as advertising spend, target audience, and advertising platforms.
 
+
 Embark on these diverse and engaging tasks to enhance your skills in data science and machine learning. Happy coding! 🚀💻
