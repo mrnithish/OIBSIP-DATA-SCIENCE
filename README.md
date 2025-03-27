@@ -9,6 +9,7 @@
 
 ## Task 2: UNEMPLOYMENT ANALYSIS WITH PYTHON
 
+
 - Dive into analyzing the unemployment rate, a critical metric reflecting the percentage of unemployed individuals in the total labor force.
 - Given the significant impact of Covid-19 on unemployment rates, this project presents a meaningful data science endeavor.
 
